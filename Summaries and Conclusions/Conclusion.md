@@ -1,0 +1,10 @@
+Often the job of contemporary MIR researchers seems to consist in adapting a novel architecture developed in other fields of information processing to the domain of music. Often highly narrow harsh inductive biases are imposed on the application of the model in order to narrow their use down to a very specific subproblem that are deemed informative of the whole in prior. The specific aspect that seems to distinguish music as a research domain for complex models is the combination of high fuzzyness with high structurality - it is precise in the way that every note is implied by deep regularity, yet unprecise because many of those interact in fuzzy ways to the fancy of deeply reason less aestethics.
+
+Language has meaning, or has it? It is the in the same way mediated by complex fuzzy regularities. Is there meaning to music? Is it less?  Being underinformed, I tend to think so. Yet music's regularity seems to be much more multidimensional and intertwined, yet more structuraliy precise, maybe just because of was by now formalized to greater granularity (speaking of highly symbolified recent western mainstream #music-theory).
+
+Undoubtedly, a large music model will be able to model it up to any wishes through sheer scale, as large language models do for text. But nothing is gained for the mind searching to understand, as the regularities still exist only implicit in the piles of wheighs, none different to the human brain which was their substrate in the first place. What I want extracted and explicitated is the essence of musical composition of patterns.
+
+I want to research a fuzzy network of recursive and self-referential patterned connections between patterns, implementing the most information dense[^@grunwaldMinimumDescriptionLength2019] way to represent music precisely though its premises are fuzzy.
+
+
+[^@grunwaldMinimumDescriptionLength2019]: Grünwald, Peter, and Teemu Roos. 2019. “Minimum Description Length Revisited.” _Int. J. Math. Ind._ 11 (01): 1930001. [https://doi.org/gqnr7w](https://doi.org/gqnr7w).
